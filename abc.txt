@@ -1,10 +1,10 @@
-change
+change that doe dong then hung
 abc
 xyz
-That doi
+That doi thay doi tiep 
 
 
-Dddd
+Dddd bbbb
 rebase
 Rebase2
 
@@ -14,7 +14,4 @@ Commit 2
 rebase1
 Rebase 2
 
-That dog o develop ====== that dog
-
 Thaydoi o binhnt
-
